@@ -1,2 +1,3 @@
 ‘production’
-‘feature1’
+‘feature1'
+‘fixed bug’
